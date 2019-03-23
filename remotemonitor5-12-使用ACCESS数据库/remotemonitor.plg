@@ -1,0 +1,191 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: remotemonitor - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/remotemonitor.res" /d "_DEBUG" /d "_AFXDLL" "D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\remotemonitor.rc"" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP5.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/remotemonitor.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\AddCableConfig.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\AddorChangeFenjiInfo.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\AddorChangeMaintenanceDlg.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\AddorChangeUserDlg.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\AddUserdlg.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\CableAlarmTable.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\CableInfoDlg.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\CableInfoSet.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\CableInfoTable.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\CableNumDlg.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\CangeCableNumDlg.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\CenterTelTable.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\ChangeFenjinumdlg.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\ComboColorPicker.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\Comm32.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\Draw.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\DutyRecordDlg.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\DutyTable.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\FenjiCableSet.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\FenjiInfoPage.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\FenjiNumDlg.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\FenjiPropertySheet.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\FenjiTable.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\JiaoBanDlg.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\LinePicker.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\Logindlg.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\MainFrm.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\PenProperties.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\remotemonitor.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\remotemonitorDoc.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\remotemonitorView.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\SCBARG.CPP"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\SendAAdlg.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\SendABdlg.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\SendCBdlg.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\SendCCdlg.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\SendCDdlg.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\SendDAdlg.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\SendDCDlg.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\SetCenterTeldlg.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\SetNodeNumdlg.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\SIZECBAR.CPP"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\StaffTable.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\UserSetDlg.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\ViewCableAlarmInfo.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\ViewDutyInfo.cpp"
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\ViewFenjiCableInfo.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP5.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP6.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/remotemonitor.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP6.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP7.tmp" with contents
+[
+odbccp32.lib winmm.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/remotemonitor.pdb" /debug /machine:I386 /out:"remotemonitor.exe" /pdbtype:sept 
+".\Debug\AddCableConfig.obj"
+".\Debug\AddorChangeFenjiInfo.obj"
+".\Debug\AddorChangeMaintenanceDlg.obj"
+".\Debug\AddorChangeUserDlg.obj"
+".\Debug\AddUserdlg.obj"
+".\Debug\CableAlarmTable.obj"
+".\Debug\CableInfoDlg.obj"
+".\Debug\CableInfoSet.obj"
+".\Debug\CableInfoTable.obj"
+".\Debug\CableNumDlg.obj"
+".\Debug\CangeCableNumDlg.obj"
+".\Debug\CenterTelTable.obj"
+".\Debug\ChangeFenjinumdlg.obj"
+".\Debug\ComboColorPicker.obj"
+".\Debug\Comm32.obj"
+".\Debug\Draw.obj"
+".\Debug\DutyRecordDlg.obj"
+".\Debug\DutyTable.obj"
+".\Debug\FenjiCableSet.obj"
+".\Debug\FenjiInfoPage.obj"
+".\Debug\FenjiNumDlg.obj"
+".\Debug\FenjiPropertySheet.obj"
+".\Debug\FenjiTable.obj"
+".\Debug\JiaoBanDlg.obj"
+".\Debug\LinePicker.obj"
+".\Debug\Logindlg.obj"
+".\Debug\MainFrm.obj"
+".\Debug\PenProperties.obj"
+".\Debug\remotemonitor.obj"
+".\Debug\remotemonitorDoc.obj"
+".\Debug\remotemonitorView.obj"
+".\Debug\SCBARG.OBJ"
+".\Debug\SendAAdlg.obj"
+".\Debug\SendABdlg.obj"
+".\Debug\SendCBdlg.obj"
+".\Debug\SendCCdlg.obj"
+".\Debug\SendCDdlg.obj"
+".\Debug\SendDAdlg.obj"
+".\Debug\SendDCDlg.obj"
+".\Debug\SetCenterTeldlg.obj"
+".\Debug\SetNodeNumdlg.obj"
+".\Debug\SIZECBAR.OBJ"
+".\Debug\StaffTable.obj"
+".\Debug\StdAfx.obj"
+".\Debug\UserSetDlg.obj"
+".\Debug\ViewCableAlarmInfo.obj"
+".\Debug\ViewDutyInfo.obj"
+".\Debug\ViewFenjiCableInfo.obj"
+".\Debug\remotemonitor.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP7.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+AddCableConfig.cpp
+AddorChangeFenjiInfo.cpp
+AddorChangeMaintenanceDlg.cpp
+AddorChangeUserDlg.cpp
+AddUserdlg.cpp
+CableAlarmTable.cpp
+CableInfoDlg.cpp
+CableInfoSet.cpp
+CableInfoTable.cpp
+CableNumDlg.cpp
+CangeCableNumDlg.cpp
+CenterTelTable.cpp
+ChangeFenjinumdlg.cpp
+ComboColorPicker.cpp
+Comm32.cpp
+Draw.cpp
+DutyRecordDlg.cpp
+DutyTable.cpp
+FenjiCableSet.cpp
+FenjiInfoPage.cpp
+Generating Code...
+Compiling...
+FenjiNumDlg.cpp
+FenjiPropertySheet.cpp
+FenjiTable.cpp
+JiaoBanDlg.cpp
+LinePicker.cpp
+Logindlg.cpp
+MainFrm.cpp
+PenProperties.cpp
+remotemonitor.cpp
+remotemonitorDoc.cpp
+remotemonitorView.cpp
+SCBARG.CPP
+SendAAdlg.cpp
+SendABdlg.cpp
+SendCBdlg.cpp
+SendCCdlg.cpp
+SendCDdlg.cpp
+SendDAdlg.cpp
+SendDCDlg.cpp
+SetCenterTeldlg.cpp
+Generating Code...
+Compiling...
+SetNodeNumdlg.cpp
+SIZECBAR.CPP
+StaffTable.cpp
+UserSetDlg.cpp
+ViewCableAlarmInfo.cpp
+D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\ViewCableAlarmInfo.cpp(634) : warning C4002: too many actual parameters for macro 'TRACE0'
+ViewDutyInfo.cpp
+D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\ViewDutyInfo.cpp(499) : warning C4002: too many actual parameters for macro 'TRACE0'
+ViewFenjiCableInfo.cpp
+D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\ViewFenjiCableInfo.cpp(472) : warning C4002: too many actual parameters for macro 'TRACE0'
+D:\05Projects\04EastElec\01Resuper\remotemonitor5-12-使用ACCESS数据库\ViewFenjiCableInfo.cpp(528) : warning C4002: too many actual parameters for macro 'TRACE0'
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+remotemonitor.exe - 0 error(s), 4 warning(s)
+</pre>
+</body>
+</html>
